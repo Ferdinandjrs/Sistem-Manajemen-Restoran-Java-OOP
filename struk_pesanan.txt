@@ -1,0 +1,32 @@
+
+==============================================
+            STRUK PEMBAYARAN RESTORAN         
+==============================================
+Nasi Goreng Spesial    x2  : Rp50000
+Es Teh Manis           x2  : Rp10000
+[VOUCHER] Diskon mahasiswa (Diskon 15%)
+----------------------------------------------
+Subtotal                    : Rp60000
+Diskon (Diskon mahasiswa 15%) : -Rp9000
+Pajak (10%)                 : Rp5100
+Biaya Pelayanan             : Rp20000
+----------------------------------------------
+TOTAL BAYAR                 : Rp76100
+==============================================
+
+
+==============================================
+            STRUK PEMBAYARAN RESTORAN         
+==============================================
+Nasi Goreng Spesial    x2  : Rp50000
+Kopi Susu Gula Aren    x2  : Rp30000
+[VOUCHER] Diskon mahasiswa (Diskon 15%)
+----------------------------------------------
+Subtotal                    : Rp80000
+Diskon (Diskon mahasiswa 15%) : -Rp12000
+Pajak (10%)                 : Rp6800
+Biaya Pelayanan             : Rp20000
+----------------------------------------------
+TOTAL BAYAR                 : Rp94800
+==============================================
+

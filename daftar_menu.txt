@@ -1,0 +1,9 @@
+Makanan;Nasi Goreng Spesial;25000.0;Makanan Berat
+Makanan;Ayam Geprek Sambal Matah;22000.0;Makanan Berat
+Minuman;Es Teh Manis;5000.0;Minuman Dingin
+Minuman;Kopi Susu Gula Aren;15000.0;Minuman Kopi
+Diskon;Promo Hemat Akhir Pekan;10.0;Promo
+Makanan;Sate Ayam;30000.0;Bakar
+Diskon;Diskon mahasiswa;15.0;Promo
+Makanan;Ayam goreng;30000.0;Berat
+Makanan;Mie Goreng;15000.0;Berat
